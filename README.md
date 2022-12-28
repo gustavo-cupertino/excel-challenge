@@ -1,4 +1,4 @@
-# excell-challenge
+# excel-challenge
 
 Questions:
 
